@@ -1,0 +1,55 @@
+.navbar-right .avatar-link {
+  max-height: 50px;
+  padding: 0;
+  margin-top: 5px;
+}
+.avatar-img {
+  max-height: 40px;
+}
+.glyphicon-off {
+  padding-right: 4px;
+}
+.thumbnail-img {
+  width: 80px;
+  margin-bottom: 0;
+}
+.list-group-item-head {
+  margin: 0 70px 0 90px;
+}
+.list-group-label {
+  margin-left: 10px;
+}
+.list-group-item.active .list-group-label {
+  text-shadow: 1px -1px 1px #1966AA;
+}
+.form-group-label {
+  vertical-align: top;
+  padding: 0 15px;
+}
+.options {
+  width: 150px;
+}
+.navbar-inverse {
+  background: linear-gradient(to bottom, rgba(34, 34, 34, 0.9), #222222);
+}
+.list-group-item.active {
+  background: linear-gradient(to bottom, rgba(25, 102, 170, 0.8), #1966aa);
+}
+td .btn-primary {
+  background: linear-gradient(to bottom, rgba(22, 91, 153, 0.8), #165b99);
+}
+td .btn-default {
+  background: linear-gradient(to bottom, rgba(220, 220, 220, 0), #dcdcdc);
+}
+td .btn-info {
+  background: linear-gradient(to bottom, rgba(33, 183, 227, 0.8), #21b7e3);
+}
+td .btn-success {
+  background: linear-gradient(to bottom, rgba(11, 144, 11, 0.8), #0b900b);
+}
+td .btn-warning {
+  background: linear-gradient(to bottom, rgba(240, 147, 15, 0.8), #f0930f);
+}
+td .btn-danger {
+  background: linear-gradient(to bottom, rgba(221, 52, 47, 0.8), #dd342f);
+}
